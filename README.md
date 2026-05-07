@@ -4,6 +4,11 @@ Aplicação web que exibe a previsão do tempo em tempo real e utiliza inteligê
 
 ---
 
+## 🌍 Acesse o projeto
+
+👉 https://diegosantiago1.github.io/PrevisaoDoTempo/
+
+
 ## 🚀 Funcionalidades
 
 * 🔎 Busca de clima por cidade
@@ -103,7 +108,8 @@ A chave da API de IA **não fica exposta no frontend**, sendo protegida no backe
 
 ## 📸 Preview
 
-*(adicione aqui um print do seu projeto depois)*
+<img width="1908" height="935" alt="Captura de tela 2026-05-07 145654" src="https://github.com/user-attachments/assets/ad84b636-ed30-4717-9597-287df25d22c0" />
+
 
 ---
 
