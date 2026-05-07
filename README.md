@@ -108,7 +108,8 @@ A chave da API de IA **não fica exposta no frontend**, sendo protegida no backe
 
 ## 📸 Preview
 
-<img width="1908" height="935" alt="Captura de tela 2026-05-07 145654" src="https://github.com/user-attachments/assets/ad84b636-ed30-4717-9597-287df25d22c0" />
+<img width="1913" height="937" alt="Captura de tela 2026-05-07 152234" src="https://github.com/user-attachments/assets/2ad55bc4-c0b2-4d0a-bd5b-bc228cc552c0" />
+
 
 
 ---
